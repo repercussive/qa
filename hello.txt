@@ -1,2 +1,3 @@
 hi!
 i am making some other changes that are gonna cause a merge coflict watch out
+merge conflict resolved :)
